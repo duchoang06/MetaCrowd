@@ -21,6 +21,10 @@ class CrowdMetaContext extends Context {
     }
 }
 
+class AClass extends Contract {
+    
+}
+
 class CrowdMetaContract extends Contract {
     constructor() {
         // Unique namespace when multiple contracts per chaincode file
